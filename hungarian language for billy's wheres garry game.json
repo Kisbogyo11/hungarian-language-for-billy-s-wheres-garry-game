@@ -101,7 +101,7 @@
     { "key": "settingsInvertMouseY", "value": "Egér Y megfordítása: " },
     { "key": "settingsFPSCounter", "value": "FPS számláló: " },
     { "key": "settingsSkipIntro", "value": "bevezető kihagyása: " },
-    { "key": "settingsBobbing", "value": "kamera mozgása járlálás közben: " },
+    { "key": "settingsBobbing", "value": "kamera mozgása járkálás közben: " },
     { "key": "settingsVignette", "value": "vignette: " },
     { "key": "settingsMouseSensitivity", "value": "egér érzékenység: " },
     { "key": "settingsFieldOfView", "value": "látómező: " },
