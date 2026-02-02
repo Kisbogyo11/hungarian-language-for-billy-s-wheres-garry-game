@@ -20,7 +20,7 @@
     { "key": "credit0", "value": "Garry's Modon (Facepunch) alapuló játék, készítette: Realest Billy" },
     { "key": "credit1", "value": "Garry's Modon (Facepunch) alapuló játék" },
 	{ "key": "prizeText", "value": "Sziasztok, én vagyok a játék készítője, Billy! Gratulálok a játék sikeres teljesítéséhez, remélem, jól szórakoztatok. Most valószínűleg azt gondolod, hogy vajon feloldottatok-e valami különlegeset. Nos, igazából nem. Köszönöm hogy játszotál!" },
-    { "key": "debug", "value": "DEBUG MÓD" },
+    { "key": "debug", "value": "DEBUG" },
     { "key": "select", "value": "válasz pályát" },
     { "key": "name", "value": "név" },
     { "key": "map", "value": "pálya" },
@@ -333,4 +333,5 @@
 	{ "key": "evilKetchup21", "value": "ezt nem hagyhatom hogy meg történjen." }
   ]
 }
+
 
