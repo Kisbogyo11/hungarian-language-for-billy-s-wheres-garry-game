@@ -282,7 +282,7 @@
 	{ "key": "garryIntro2", "value": "kezdtem érezni a csendet." },
 	{ "key": "garryIntro3", "value": "mindegy, mindaketten tudjuk miért vagy itt." },
 	{ "key": "garryIntro4", "value": "szóval had mutasam meg mit tudok csinálni..." },
-	{ "key": "garryIntro5", "value": "meg tudom állitani az időt pát másodpercre." },
+	{ "key": "garryIntro5", "value": "meg tudom állitani az időt pár másodpercre." },
 	{ "key": "garryIntro6", "value": "az óra meg fagyva mindenkinek csak nekem nem." },
 	{ "key": "garryIntro7", "value": "tul messzire méssz és a közeledbe teleportálok." },
 	{ "key": "garryIntro8", "value": "na mennyél csak, kezd meg találni azt az errort." },
@@ -333,3 +333,4 @@
 	{ "key": "evilKetchup21", "value": "ezt nem hagyhatom hogy meg történjen." }
   ]
 }
+
